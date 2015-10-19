@@ -1,11 +1,8 @@
 # StorageModule
 
-In Ubuntu 14.04, we should implement apache2, php, mysql, Sphinxsearch and Laravel:
+In Ubuntu 14.04, we should implement apache2, php, mysql and Laravel:
 
 ###Install apache2:  
-```
-$ install apache2 and php
-```  
 ```
 $ apt-get update
 ```  
