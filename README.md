@@ -64,7 +64,7 @@ export PATH="$PATH:/home/vagrant/.composer/vendor/bin"
 ````  
 Now, we can use Laravel in command line.
 
-###let mysql allow remote connect:  
+###Let mysql allow remote connect:  
 first, lonin to mysql:  
 
 ```
