@@ -2,6 +2,16 @@
 
 We use Vagrant to deploy the development environment.
 
+##Introduction
+
+The StorageModule is used to store files and related information. 
+
+This module has the MySQL and you can find one database called laravel, which includes the all the tables we use to store information. When people use the Add API to add new files, the related information like file name, file address, will add into the database in this module.
+
+This module achieves the goal that we can index the information from different remote machines and different databases not only from the local machine.
+
+##Steps
+
 ###Download and install vagrant
 Vagrant download link: https://www.vagrantup.com/downloads.html
 
