@@ -1,7 +1,5 @@
 # StorageModule
 
-We use Vagrant to deploy the development environment.
-
 ##Introduction
 
 The StorageModule is used to store files and related information. 
@@ -10,7 +8,8 @@ This module has the MySQL and you can find one database called laravel, which in
 
 This module achieves the goal that we can index the information from different remote machines and different databases not only from the local machine.
 
-##Steps
+##Deployment Steps
+We use Vagrant to deploy the development environment.
 
 ###Download and install vagrant
 Vagrant download link: https://www.vagrantup.com/downloads.html
@@ -112,6 +111,6 @@ then change bind address x.x.x.x to 0.0.0.0
 
 Now, we can access mysql remotely with user 'admin' and password '123456'.  
 
-
+##Run the module
 
 
