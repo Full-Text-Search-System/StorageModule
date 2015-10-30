@@ -32,6 +32,8 @@ $ vagrant ssh
 ```
 
 ##Run the module
+
+remember to modify the file name to StorageModule
 ```
 $cd StorageModule
 ```
