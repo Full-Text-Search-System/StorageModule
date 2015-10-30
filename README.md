@@ -112,5 +112,10 @@ then change bind address x.x.x.x to 0.0.0.0
 Now, we can access mysql remotely with user 'admin' and password '123456'.  
 
 ##Run the module
-
+```
+$cd StorageModule
+```
+```
+$vagrant up
+```
 
