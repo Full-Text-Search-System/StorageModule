@@ -18,11 +18,7 @@ Vagrant download link: https://www.vagrantup.com/downloads.html
 
 #####We have upload a vagrant box wiht required development envrionment in https://atlas.hashicorp.com/FTS
 
-first, 
-```
-$ vagrant up
-```
-now, we can ssh to the virtual machine:
+if you want to modify the virtual machine:
 ```
 $ vagrant ssh
 ```
