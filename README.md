@@ -2,7 +2,7 @@
 
 ##Introduction
 
-The StorageModule is used to store files and related information. 
+The StorageModule is used to store files and related information.  
 
 This module has the MySQL and you can find one database called laravel, which includes the all the tables we use to store information. When people use the Add API to add new files, the related information like file name, file address, will add into the database in this module.
 
